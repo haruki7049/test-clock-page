@@ -17,7 +17,7 @@ export default function Page() {
 
   return (
     <main>
-      <div>{ date.toLocaleString() }</div>
+      <div className="p-10 text-5xl font-bold" suppressHydrationWarning={true}>{ date.toLocaleString() }</div>
     </main>
   );
 }
