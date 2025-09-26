@@ -1,0 +1,22 @@
+{
+  "name": "test-counter-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev --turbopack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.17.0",
+  "dependencies": {
+    "next": "^15.5.4"
+  },
+  "devDependencies": {
+    "sass": "^1.93.2"
+  }
+}
