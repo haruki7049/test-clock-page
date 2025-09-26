@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'test-counter-page',
+  title: 'test-clock-page',
 }
 
 export default function RootLayout({
